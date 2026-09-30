@@ -47,5 +47,4 @@ Ding collects nothing. The full (short) policy is on the
 
 ## Contact
 
-**contact@example.com**
-<!-- placeholder — replace with your real support email before submission -->
+**hello@gomycro.com**

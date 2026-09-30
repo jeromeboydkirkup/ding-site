@@ -36,5 +36,4 @@ out in the App Store release notes.
 
 ## Contact
 
-Questions about this policy: **contact@example.com**
-<!-- placeholder — replace with your real support email before submission -->
+Questions about this policy: **hello@gomycro.com**
