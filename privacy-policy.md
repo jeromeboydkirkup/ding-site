@@ -15,14 +15,19 @@ genuinely nothing to disclose:
 - Ding collects no personal data and no usage data.
 - Ding contains no analytics, no advertising and no third-party SDKs.
 - Ding makes no network requests of any kind; it works entirely offline.
-- Ding requests no system permissions (no microphone, no location, no
-  contacts, no photos — every bell sound is synthesised on your device).
+- Ding asks for one optional permission: **microphone access**, and only
+  when you choose to record a custom bell sound. Recordings are stored on
+  your device, are never uploaded or shared, and are deleted when you
+  delete that bell (or the app). If you never record, the microphone is
+  never touched — every built-in bell is synthesised on your device.
+- Audio files you import for a custom bell are likewise processed and
+  stored on your device only.
 - Ding creates no account and stores no data outside your device.
 
-The only thing Ding saves is your own settings (selected bell, volume
-boost, haptics and similar toggles), stored locally on your device in the
-app's standard preferences. They never leave your device, and deleting the
-app deletes them.
+The only things Ding saves are your own settings (selected bell, volume
+boost, haptics and similar toggles) and the custom bells you create,
+stored locally on your device. They never leave your device, and deleting
+the app deletes them.
 
 ## Children
 
