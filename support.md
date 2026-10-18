@@ -30,9 +30,10 @@ A ring you started (including press-and-hold) finishes even if the screen
 locks mid-ring. The app never makes sound on its own.
 
 **What's free, and what's Ding Pro?**
-The twelve classic bells, haptics, volume boost and every setting are
-free. Ding Pro is a one-time purchase — no subscription, no ads — that
-unlocks the Game Show pack, custom bells and every future sound pack.
+The Front Desk and Counter bells, haptics, volume boost and every setting
+are free. Ding Pro is a one-time purchase — no subscription, no ads — that
+unlocks the other thirteen bells (ten classics plus the Game Show pack),
+custom bells and every future sound pack.
 Locked items show a small lock; tapping one plays a preview.
 
 **I bought Ding Pro but it's locked.**
