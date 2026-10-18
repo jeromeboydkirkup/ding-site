@@ -36,6 +36,12 @@ unlocks the other thirteen bells (ten classics plus the Game Show pack),
 custom bells and every future sound pack.
 Locked items show a small lock; tapping one plays a preview.
 
+**How does the free trial work?**
+You can try all of Ding Pro free for 7 days, once per Apple Account. It's
+not a subscription: nothing is ever charged automatically. When it ends,
+Pro bells lock again and you keep the free ones; buy Pro any time to keep
+everything.
+
 **I bought Ding Pro but it's locked.**
 Open the Ding Pro screen (gear icon → *Ding Pro*) and tap **Restore
 Purchases**, signed in with the Apple Account you bought it with. Pro
