@@ -14,7 +14,11 @@ genuinely nothing to disclose:
 
 - Ding collects no personal data and no usage data.
 - Ding contains no analytics, no advertising and no third-party SDKs.
-- Ding makes no network requests of any kind; it works entirely offline.
+- Ding itself makes no network requests and works offline.
+- If you buy Ding Pro or leave a tip, the purchase is handled entirely
+  by Apple through the App Store. We receive no personal or payment
+  information; the app only checks, on your device, whether Pro is
+  unlocked, and remembers that locally so it keeps working offline.
 - Ding asks for one optional permission: **microphone access**, and only
   when you choose to record a custom bell sound. Recordings are stored on
   your device, are never uploaded or shared, and are deleted when you
