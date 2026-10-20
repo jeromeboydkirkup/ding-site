@@ -5,7 +5,7 @@ layout: default
 
 Ding is a call bell for iPhone and iPad: tap the big bell and it rings,
 loudly and instantly. Hold it to keep ringing. Swipe the strip at the
-bottom to choose between twelve bells.
+bottom to choose between eighteen bells.
 
 ## Frequently asked questions
 
@@ -32,7 +32,7 @@ locks mid-ring. The app never makes sound on its own.
 **What's free, and what's Ding Pro?**
 The Front Desk and Counter bells, haptics, volume boost and every setting
 are free. Ding Pro is a one-time purchase — no subscription, no ads — that
-unlocks the other thirteen bells (ten classics plus the Game Show pack),
+unlocks the other sixteen bells (ten classics plus the Game Show and Party packs),
 custom bells and every future sound pack.
 Locked items show a small lock; tapping one plays a preview.
 
