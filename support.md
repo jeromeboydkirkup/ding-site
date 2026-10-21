@@ -5,7 +5,8 @@ layout: default
 
 Ding is a call bell for iPhone and iPad: tap the big bell and it rings,
 loudly and instantly. Hold it to keep ringing. Swipe the strip at the
-bottom to choose between eighteen bells.
+bottom (on iPad in landscape, scroll the column on the right) to choose
+between eighteen bells.
 
 ## Frequently asked questions
 
@@ -47,14 +48,15 @@ Yes. Ding Pro supports Family Sharing: if your family organiser has
 purchase sharing turned on, everyone in the group gets Pro.
 
 **What does the tip do?**
-Nothing but say thank you — it's optional and unlocks nothing.
+Nothing but say thank you. It's a single optional $0.99 tip and unlocks
+nothing.
 
 **How do I get a refund?**
 Purchases are handled by Apple; request a refund at
 [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 **Can I make my own bells?**
-Yes, with Ding Pro — scroll the picker to *My Bells* and tap **+**. Pick any look and
+Yes, with Ding Pro — scroll the bells to *My Bells* and tap **+**. Pick any look and
 colour, then choose a sound: tweak a built-in bell (pitch, decay,
 brightness, strike), record up to 5 seconds with the microphone, or import
 an audio file. Recordings and imports are trimmed, normalised and get the
@@ -65,11 +67,6 @@ Only because you tapped Record for a custom bell. The recording is
 processed and stored on your device and is never uploaded — Ding makes no
 network requests at all. Decline the permission and everything else still
 works.
-
-**Can I use my own bell recording for a built-in bell?**
-Also yes, when building from source: place a WAV named after a bell (for
-example `hotel.wav`) in `Documents/Samples/` or `Ring/Samples/` — see the
-project README for accepted names.
 
 **Which devices are supported?**
 iPhone and iPad running iOS 17 or later. No Ding account needed; the only
